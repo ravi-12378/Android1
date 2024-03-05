@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">KishorePoetryApplication</string>
+=======
+    <string name="app_name">Kishore</string>
+>>>>>>> 87f48b5fc50ac872bfaaf50ceeee87a2c9e5cc29
 </resources>

@@ -12,5 +12,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+<<<<<<< HEAD
 rootProject.name = "KishorePoetryApplication"
+=======
+rootProject.name = "Kishore"
+>>>>>>> 87f48b5fc50ac872bfaaf50ceeee87a2c9e5cc29
 include ':app'

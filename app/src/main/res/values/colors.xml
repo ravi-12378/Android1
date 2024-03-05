@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+<<<<<<< HEAD
+=======
+    <color name="red">#Ff0000</color>
+    <color name="grad1">#40E0D0</color>
+    <color name="grad2">#FF8C00</color>
+    <color name="grad3">#FF0080</color>
+>>>>>>> 87f48b5fc50ac872bfaaf50ceeee87a2c9e5cc29
 </resources>
