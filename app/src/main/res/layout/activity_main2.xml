@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2"
+    android:background="@drawable/blackbackground"
+    >
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Nature's Symphony"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="In whispers of wind,
+And rivers that bend,
+Nature's symphony,
+Plays endlessly
+"
+        android:layout_marginTop="20sp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:padding="10sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Moonlit Dance"
+        android:textAlignment="center"
+        android:layout_marginTop="100sp"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Silver beams gently sway,
+In the midnight's ballet,
+Stars twinkle in delight,
+As moonbeams ignite
+"
+        android:padding="10sp"
+        android:layout_marginTop="120sp"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:textSize="20sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Raindrop Serenade"
+        android:textAlignment="center"
+        android:layout_marginTop="225sp"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Leaves  whisper secrets in the breeze,
+Colors dance upon the trees,
+Autumn's embrace, warm and true,
+A canvas painted just for you
+"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:padding="10sp"
+        android:textSize="20sp"
+        android:layout_marginTop="250sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Autumn's Embrace."
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:layout_marginTop="370sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="400sp"
+        android:text="Leaves whisper secrets in the breeze,
+Colors dance upon the trees,
+Autumn's embrace, warm and true,
+A canvas painted just for you
+"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:padding="10sp"
+        android:textSize="20sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Winter's Veil"
+        android:textAlignment="center"
+        android:layout_marginTop="535sp"
+        android:textSize="24sp"
+        android:textColor="@color/white"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Snowflakes fall, silent and still,
+Blanketing the world until,
+All is hushed beneath the white,
+A winter's eve, soft and bright
+"
+        android:textAlignment="center"
+        android:layout_marginTop="570sp"
+        android:padding="10sp"
+        android:textColor="@color/white"
+        android:textSize="20sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Spring's Awakening"
+        android:textAlignment="center"
+        android:layout_marginTop="670sp"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Petals unfurl in the morning light,
+Birds sing songs of pure delight,
+Spring's awakening, fresh and new,
+Nature's rebirth, in every hue"
+        android:layout_marginTop="710sp"
+        android:padding="10sp"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:textSize="20sp"/>
+ <TextView
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:text="Summer's Kiss"
+     android:layout_marginTop="820sp"
+     android:textAlignment="center"
+     android:textSize="24sp"
+     android:textStyle="bold"
+     android:textColor="@color/white"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Sun-kissed days, warm and bright,
+Laughter fills the day and night,
+Summer's kiss upon the land,
+A season cherished, hand in hand
+"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:padding="10sp"
+        android:layout_marginTop="840sp"/>
+
+ <TextView
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:text="Whispers of Love"
+     android:textAlignment="center"
+     android:textColor="@color/white"
+     android:textStyle="bold"
+     android:textSize="24sp"
+     android:layout_marginTop="950sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="In whispers soft, love is found,
+Hearts entwined, forever bound,
+A symphony of two souls' embrace,
+Love's melody, in time and space.
+"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:layout_marginTop="980sp"
+        android:textSize="20sp"
+        android:padding="10sp"/>
+ <TextView
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"
+     android:text="Ocean's Song"
+     android:textAlignment="center"
+     android:layout_marginTop="1100sp"
+     android:textColor="@color/white"
+     android:textSize="24sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Waves crash upon the shore,
+Echoes of the ocean's roar,
+Seagulls cry in the salty air,
+A timeless song, beyond compare."
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:padding="10sp"
+        android:layout_marginTop="1120sp"
+        android:textColor="@color/white" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Mountains' Majesty"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:layout_marginTop="1260sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Peaks reaching for the sky,
+Majestic mountains standing high,
+Earth's ancient guardians, bold and strong,
+Inspiring awe, where they belong
+"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_marginTop="1280sp"
+        android:textColor="@color/white"
+        android:padding="10sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="City Lights"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:layout_marginTop="1410sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Neon signs and bustling streets,
+City lights where dreams compete,
+A symphony of urban life,
+Amidst the hustle and the strife.
+"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_marginTop="1430sp"
+        android:textColor="@color/white"
+        android:padding="10sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Quiet Moments"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:layout_marginTop="1540sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="In the stillness of the night,
+When stars are shining bright,
+Quiet moments, calm and serene,
+A sanctuary, from life's machine"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_marginTop="1560sp"
+        android:textColor="@color/white"
+        android:padding="10sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Childhood Memories"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:layout_marginTop="1690sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Innocence found in laughter's peal,
+Childhood memories, so surreal,
+Days of wonder, free from care,
+Treasures found everywhere"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_marginTop="1730sp"
+        android:textColor="@color/white"
+        android:padding="10sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Eternal Dance"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:layout_marginTop="1860sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Time's eternal dance, never still,
+Moments passing, at its will,
+Embrace each step, along the way,
+In the grand ballet of night and day."
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_marginTop="1885sp"
+        android:textColor="@color/white"
+        android:padding="10sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Whispers of Autumn"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:layout_marginTop="2000sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Leaves of gold and crimson red,
+Whispers of autumn, softly spread,
+A tapestry woven in fire and light,
+Nature's masterpiece, burning bright.
+"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_marginTop="2028sp"
+        android:textColor="@color/white"
+        android:padding="10sp" />
+
+
+</RelativeLayout>
+
+</ScrollView>
